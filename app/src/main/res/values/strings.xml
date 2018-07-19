@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FootLocker</string>
+    <string name="enter_dj_name">Enter Dj name</string>
+    <string name="toolbar_title">Radio Channels</string>
+    <string name="action_search">Dj Name</string>
+    <string name="search_hint">Type name of Dj…</string>
+</resources>
